@@ -1,0 +1,4 @@
+.DS_Store
+.idea/
+kafka-consumer-java.iml
+target/
